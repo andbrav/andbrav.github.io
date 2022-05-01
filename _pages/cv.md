@@ -37,14 +37,14 @@ Skills
 
 Publications
 ======
-  * [Optimisation of protein-enriched gluten-free layer cakes using a mix-ture design]{https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.14470}, 2019
+  * [Optimisation of protein-enriched gluten-free layer cakes using a mix-ture design](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.14470), 2019
     * International Journal of Food Science Technology
     * I helped with the analysis and with the plots.
 
-  * [Clasificación de la calidad de estación forestal mediante técnicas de aprendizaje automático (machine learning)]{http://7cfe.congresoforestal.es/sites/default/files/actas/7CFE01-136.pdf}, 2017
+  * [Clasificación de la calidad de estación forestal mediante técnicas de aprendizaje automático (machine learning)](http://7cfe.congresoforestal.es/sites/default/files/actas/7CFE01-136.pdf), 2017
     * Scientific comunication - 7 Congreso Forestal Español
-    * [Poster]{https://7cfe.congresoforestal.es/sites/default/files/comunicaciones/32.pdf}
+    * [Poster](https://7cfe.congresoforestal.es/sites/default/files/comunicaciones/32.pdf)
 
-  * [Análisis de datos selvícolas con R]{https://uvadoc.uva.es/handle/10324/11889}, 2015
+  * [Análisis de datos selvícolas con R](https://uvadoc.uva.es/handle/10324/11889), 2015
     * Teaching material - Universidad de Valladolid
   S

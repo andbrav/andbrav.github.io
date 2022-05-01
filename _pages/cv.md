@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Universidad de Valladolid, 2019
+* B.S. in Statistics, Universidad de Valladolid, 2019
+* M.S. in Bioingformatics, Universidad de Valencia, 2021
+* Pursuing a B.S in Mathematics, Universidad nacional de educación a distancia
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2018 - Sep 2018: Junior statistician
+  * PNW Research Station, USDA Forest Service
+  * Duties included: Forest inventory data analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Oct 2020 - Feb 2022: Junior researcher
+  * I2Sysbio, CSIC+Universidad de Valencia
+  * Duties included: data analysis, technical writting, mathematical modelling
+
+* Nowadays working as a Java Developer
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java, R and Python programming
+* Applied data analysis: GLM, time series, sampling, stochastic processes, bayesian methods
+* Optimization (linear, integer and mixed programming)
+* Spanish, English and French
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * [Optimisation of protein-enriched gluten-free layer cakes using a mix-ture design]{https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.14470}, 2019
+    * International Journal of Food Science Technology
+    * I helped with the analysis and with the plots.
+
+  * [Clasificación de la calidad de estación forestal mediante técnicas de aprendizaje automático (machine learning)]{http://7cfe.congresoforestal.es/sites/default/files/actas/7CFE01-136.pdf}, 2017
+    * Scientific comunication - 7 Congreso Forestal Español
+    * [Poster]{https://7cfe.congresoforestal.es/sites/default/files/comunicaciones/32.pdf}
+
+  * [Análisis de datos selvícolas con R]{https://uvadoc.uva.es/handle/10324/11889}, 2015
+    * Teaching material - Universidad de Valladolid
+  S
